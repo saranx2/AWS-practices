@@ -1,1 +1,7 @@
+Steps:
 
+Upload a dataset into an S3 bucket.
+Create an account on Amazon QuickSight.
+Connect your dataset (in the S3 bucket) to Amazon QuickSight.
+Create a variety of graphs, charts, and analysis using QuickSight.
+Publish a dashboard full of insights into your dataset!
